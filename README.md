@@ -1,4 +1,6 @@
-### Hi there 👋
+### 서울과학기술대 컴퓨터공학20 
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonhu3973)](https://solved.ac/kwonhu3973)
 
 <!--
 **woogie01/woogie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
