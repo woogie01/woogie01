@@ -1,5 +1,5 @@
 ### 서울과학기술대 컴퓨터공학20 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
 - :mortar_board: College student
 - 🌱 Learning On Web Server
 - :video_game: Learning a game as a hobby
