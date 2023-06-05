@@ -9,6 +9,8 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonhu3973)](https://solved.ac/kwonhu3973)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woogie01&exclude_repo=woogie01,woogie01.github.io&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
 <!--
 **woogie01/woogie01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
