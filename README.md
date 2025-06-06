@@ -6,7 +6,7 @@
 # Learning On Language
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonhu3973)](https://solved.ac/kwonhu3973)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kwonhu3973)](https://solved.ac/kwonhu2580)
 
 | [![HyunUk Kwon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=woogie01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woogie01&layout=compact&theme=buefy&hide_border=true)](https://github.com/woogie01) |
 | ------------- | ------------- |
