@@ -1,7 +1,12 @@
 ### 서울과학기술대 컴퓨터공학20 
 
-- :mortar_board: College student
-- 🌱 Learning On Web Server
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=woogie01&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/woogie01"
+  width="600"
+  height="300"
+/>
+</a>
 
 # Learning On Language
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -24,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
